@@ -6,7 +6,7 @@ import Logo from './components/Logo';
 function App() {
   return (
     <div className="aplicacion-tareas">
-      <Logo src="logo.png" />
+      {/* <Logo src="logo.png" /> */}
       <div className='tareas-lista-principal' >
         <h1>Mis Tareas</h1>
         {/* <Tarea texto="Aprender React" /> */}
